@@ -67,6 +67,7 @@ ul{
 
 .slide img{
   position:relative;
+  width:100%;
 }
 
 .change-btn-wrapper{
