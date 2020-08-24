@@ -5,7 +5,6 @@
 body {
   margin: 0;
   font-family: 'Yu Mincho';
-  max-width: 400px;
   height:100%;
   background-image:url(back-girl.png);
 }
