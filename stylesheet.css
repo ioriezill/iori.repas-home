@@ -7,7 +7,7 @@ body {
   font-family: 'Yu Mincho';
   max-width: 400px;
   height:100%;
-  background-image:url(/images/back-girl.png);
+  background-image:url(back-girl.png);
 }
 
 .container {
