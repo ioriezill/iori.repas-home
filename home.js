@@ -58,6 +58,7 @@ $(function() {
       $('.menu-wrapper').slideDown(3000);
       $('.map').fadeIn(4000);
       $('.access-infomation').fadeIn(2000);
+      $('.time').fadeIn(3000);
     },500); //0.5秒後にロゴをフェードイン!
   });
 
